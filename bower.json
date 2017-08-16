@@ -1,0 +1,17 @@
+{
+  "name": "enoa-fltr-parser",
+  "description": "ENOA package for fltr parser",
+  "main": "./dist/angular.filter-parser.js",
+  "authors": [
+    "emallates(support@emallates.com)"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
